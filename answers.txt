@@ -8,3 +8,7 @@ Q1: Why might we consider using Git?
 Answer: Git allows people to collaborate on projects securely and allows people to see previous versions of projects.
 It also stores files in an organized way. 
 
+Q3: What is the difference between merging and rebasing? 
+
+Answer: Merging combines changes from one branch to another by creating a merge commit and preserves branch history. Rebasing
+reapplies commits from one branch to another without a merge commit.  
