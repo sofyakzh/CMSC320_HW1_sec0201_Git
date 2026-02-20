@@ -2,3 +2,9 @@ Q2: What field could data science be applied to?
 
 Answer: data science could be applied to business, specifically supply chain optimization. Data science would allow analysts
 to analyze sales and processes, see where they can be improved, and propose changes. 
+
+Q1: Why might we consider using Git? 
+
+Answer: Git allows people to collaborate on projects securely and allows people to see previous versions of projects.
+It also stores files in an organized way. 
+
