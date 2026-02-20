@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? 
+
+Answer: data science could be applied to business, specifically supply chain optimization. Data science would allow analysts
+to analyze sales and processes, see where they can be improved, and propose changes. 
